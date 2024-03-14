@@ -7,5 +7,6 @@
     <li>Objects</li>
     <li>Abstraction</li>
     <li>Encapsulation</li>
+    <li>Constructors</li>
   </ul>
 </p>
